@@ -1,0 +1,16 @@
+{
+  "summary": {
+    "title": "Threat Model 1",
+    "owner": "Nick"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "Initial",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
